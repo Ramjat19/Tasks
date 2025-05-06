@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="unknown_source">Unknown Source</string>
+</resources>
